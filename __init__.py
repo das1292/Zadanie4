@@ -1,1 +1,1 @@
-__all__=["NaZakupy", "CiagiArytm", "Robaczek"]
+__all__=["NaZakupy", "CiagiAry", "Robaczek"]
